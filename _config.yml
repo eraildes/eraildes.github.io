@@ -99,3 +99,5 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
+  - { url: '/projeto1', text: 'projeto1' }
+  - { url: '/projeto2', text: 'projeto2' }
